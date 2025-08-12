@@ -35,3 +35,6 @@ The main challenge was structuring the analysis to cover all the required SQL co
  * Execute the CREATE TABLE and INSERT INTO queries to set up the dataset.
  * Run the analysis queries sequentially.
  * Observe the results in the output panel.
+
+---
+## Author : SAKITHA MUDADLA
